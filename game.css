@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(85, 53, 73);
+}
+
+h1 {
+    text-align: center;
+    border: 5px solid aqua;
+    color: burlywood;
+    padding: 25px;
+    margin: 10px;
+    background-color: rgb(32, 126, 129);
+}
+
+#b1, #b2, #b3, #b4, #b5, #b6, #b7, #b8, #b9 { 
+    width: 80px; 
+    height: 52px; 
+    border: 2px solid rgb(0, 0, 0); 
+    border-radius: 6px; 
+    font-size: 50px; 
+    text-align: center; 
+    background-color: rgb(101, 178, 197);
+    position: relative;
+    left: 40%;
+} 
+
+#reset { 
+    box-sizing: border-box; 
+    width: 150px; 
+    height: 60px; 
+    border: 2px solid rgb(0, 255, 76); 
+    background-color: dodgerblue; 
+    color: rgb(0, 0, 0); 
+    border-radius: 10px;
+    font-size: 20px; 
+    cursor: pointer; 
+    position: relative;
+    left: 43%;
+} 
+
+p {
+    position: absolute;
+    right:45%;
+    font-size: 50px;
+    color: chartreuse;
+}
+  
